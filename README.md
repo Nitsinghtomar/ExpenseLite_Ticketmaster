@@ -3,15 +3,25 @@
 The folder frontend contains the code for ExpenseLite webpage :
 
 ExpenseLite(Frontend)/
+
 │
+
 ├── css/
+
 │   └── styles.css        # CSS file for styling the application
+
 │
+
 ├── js/
+
 │   └── app.js            # JavaScript file containing application logic
+
 │
+
 ├── index.html            # Main HTML file for ExpenseLite application
+
 │
+
 └── README.md             # Documentation / README file for the project
 
 
