@@ -1,8 +1,4 @@
-ExpenseLite Documentation: Design Decisions and Instructions
-
-Introduction:
-
-ExpenseLite is a simple yet powerful expense management application designed to meet the needs of both individuals and small businesses. This documentation elucidates the design decisions behind ExpenseLite and provides comprehensive instructions for its utilization.
+ExpenseLite Documentation: Design Decisions and Instructions for use:
 
 Design Decisions:
 
@@ -11,6 +7,7 @@ User Interface (UI) Design:
 ExpenseLite boasts a clean and intuitive user interface, prioritizing ease of use and accessibility. The UI is meticulously crafted to ensure seamless navigation and efficient task completion.
 
 A minimalist design approach is adopted to minimize cognitive load and enhance user focus on essential tasks. This design philosophy aligns with contemporary usability principles and fosters a delightful user experience.
+
 Functionality:
 
 ExpenseLite offers essential expense tracking features, including expense logging, data retrieval and display, basic visual reporting, and user-friendly filtering options.
